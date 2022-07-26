@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  font-family: "Cairo";
+}
+
+.heading {
+  text-transform: uppercase;
+  font-size: 65px;
+  margin: 20px 0;
+  padding: 10px;
+  color: black;
+  z-index: 1;
+}
